@@ -18,6 +18,7 @@ This project demonstrates skills useful for:
 
 ✔ Version control (Git/GitHub)
 
+---
 
 ## 🚀 Features
 
@@ -56,6 +57,8 @@ Enter a month like 2025-02, and the app will show:
 - Total spending that month
 - Category breakdown
 
+---
+
 ## 📁 Project Structure
 
 ```markdown
@@ -65,6 +68,8 @@ expense-tracker/
 ├── expenses.csv        # Stored expenses (auto-generated)
 └── README.md           # Project documentation
 ```
+
+---
 
 ## ▶️ How to Run
 
@@ -86,6 +91,7 @@ Run the app:
 python app.py
 ```
 
+---
 
 ## 🛠 Technologies Used
 
@@ -94,6 +100,7 @@ python app.py
 - csv (if you add CSV module later)
 - Git & GitHub for version control
 
+---
 
 ## ✨ Future Improvements (Ideas)
 
@@ -106,6 +113,7 @@ Potential features to add later:
 - Build a Tkinter GUI
 - Convert the app into a web app (Flask / Django)
 
+---
 
 ## 👤 Author
 
