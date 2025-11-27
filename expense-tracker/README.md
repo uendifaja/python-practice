@@ -94,5 +94,5 @@ Convert the app into a web app (Flask / Django)
 
 
 👤 Author
-Uendi Faja
-Student in Computer Science BSc.
+
+Uendi Faja – B.Sc. Computer Science student at TUHH, Hamburg
